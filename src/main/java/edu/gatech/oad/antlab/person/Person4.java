@@ -5,7 +5,7 @@ package edu.gatech.oad.antlab.person;
  *  returns their name and a
  *  modified string 
  *  
- *  @author Bob
+ *  @author Pratyusha Karnati
  *  @version 1.1
  */
 public class Person4 {
@@ -21,7 +21,7 @@ public class Person4 {
   }
     /**
      * This method should return a string
-     * where each character is 1 greater 
+     * where each character is 1 greater
      * than its previous value.  So
      * given "abc123" it should return
      * "bcd234".
@@ -29,22 +29,30 @@ public class Person4 {
      * @param input the string to be modified
      * @return the modified string
      */
-    private String calc(String input) {
+    private static String calc(String input) {
       //Person 4 put your implementation here
-      return null;
+        String newString = "";
+        char newChar = ' ';
+        for (int i = 0; i < input.length(); i++) {
+            newChar = input.charAt(i);
+            int value = (int)newChar + 1;
+            newChar = (char)value;
+            newString += String.valueOf(newChar);
+        }
+        return newString;
     }
-    
+
     /**
      * Return a string rep of this object
      * that varies with an input string
      *
      * @param input the varying string
-     * @return the string representing the 
+     * @return the string representing the
      *         object
      */
     public String toString(String input) {
       return name + calc(input);
     }
-
+    
 }
 
