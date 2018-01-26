@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="491e0bb0-0a4f-4cbb-854b-b3811861bebd" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" afterPath="$PROJECT_DIR$/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,8 +31,8 @@
       <file leaf-file-name="AntLabMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="67" column="45" lean-forward="false" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
+            <state relative-caret-position="140">
+              <caret line="62" column="40" lean-forward="true" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -278,7 +277,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516935066000</updated>
       <workItem from="1516935069892" duration="804000" />
-      <workItem from="1516936393609" duration="75000" />
+      <workItem from="1516936393609" duration="147000" />
     </task>
     <task id="LOCAL-00001" summary="completed the Person3 calc method">
       <created>1516935864612</created>
@@ -287,11 +286,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516935864612</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added matt's name">
+      <created>1516936498140</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516936498140</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="879000" />
+    <option name="totallyTimeSpent" value="951000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -334,7 +340,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed the Person3 calc method" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed the Person3 calc method" />
+    <MESSAGE value="Added matt's name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added matt's name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -356,8 +363,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="67" column="45" lean-forward="false" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
+        <state relative-caret-position="140">
+          <caret line="62" column="40" lean-forward="true" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
           <folding />
         </state>
       </provider>
