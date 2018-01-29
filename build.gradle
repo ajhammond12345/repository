@@ -10,7 +10,7 @@
 //also available is assemble which will compile the code but not run the test
 //also available is check which will compile and run the tests
 apply plugin: 'java'
-apply plugin:'base'
+
 apply plugin: 'application'
 
 
@@ -18,7 +18,7 @@ apply plugin: 'application'
 //set up some variables
 sourceCompatibility = 1.8
 version = '1.0'
-mainClassName='MAINCLASSNAMEHERE'
+mainClassName='AntLabMain'
 
 //Define the contents of the jar file
 jar  {
