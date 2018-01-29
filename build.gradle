@@ -18,7 +18,6 @@ apply plugin: 'application'
 //set up some variables
 sourceCompatibility = 1.8
 version = '1.0'
-mainClassName='AntLabMain'
 
 //Define the contents of the jar file
 jar  {
